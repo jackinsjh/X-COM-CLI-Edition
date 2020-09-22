@@ -1,4 +1,4 @@
-![example](https://user-images.githubusercontent.com/43871679/93926078-074f3b00-fd52-11ea-94c9-5d52cc4ac330.png)
+![example](https://user-images.githubusercontent.com/43871679/93926694-cc99d280-fd52-11ea-9c8a-1c9bab58bd19.png)
 
 A CLI game based on X-COM's game rule.
 
